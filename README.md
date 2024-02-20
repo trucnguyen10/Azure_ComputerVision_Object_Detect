@@ -16,13 +16,3 @@
 10. The code then calls analyze_image_in_stream method of the Computer Vision API to analyze the colors in the image and prints the dominant foreground color, dominant background color, and accent color. <br />
 11. Overall, the code uses the Computer Vision API to perform object detection, image description, and color analysis on a set of input images, and saves the processed images in the output folder. <br />
 
-![terinal](https://github.com/trucnguyen10/Azure_computer_vision/assets/87359204/104ebe42-11ca-4272-8d92-eb3f6062760d)
-
-![coachella](https://github.com/trucnguyen10/Azure_computer_vision/assets/87359204/cbadc251-4000-4fe3-892b-bb9a29d3d054)
-![coachella](https://github.com/trucnguyen10/Azure_computer_vision/assets/87359204/048a1c10-04d0-4ed8-9bc5-6dcb5280a9c3)
-
-![timesquare](https://github.com/trucnguyen10/Azure_computer_vision/assets/87359204/5a6bc9c4-be8e-4271-99f1-e36142fd7f33)
-![timesquare](https://github.com/trucnguyen10/Azure_computer_vision/assets/87359204/c68fa8b3-f051-46de-aee1-7771f2537f91)
-
-![football](https://github.com/trucnguyen10/Azure_computer_vision/assets/87359204/ca2f5e18-a9ff-4ba7-b25a-1ac0b2d454f5)
-![football](https://github.com/trucnguyen10/Azure_computer_vision/assets/87359204/4e2ceae9-884c-4f75-aa3f-9dc4bf0e83fc)
